@@ -1,0 +1,12 @@
+{
+    "enabledServices": [
+        "commandReceiver"
+    ],
+    "enabledSubsystems": [
+        "drive",
+        "spinner"
+    ],
+    "coastDriveIfDisabled": false,
+    "disableOutput": false,
+    "smartMotionMultiplier": 0.95
+}

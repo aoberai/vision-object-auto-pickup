@@ -1,0 +1,16 @@
+{
+    "gains": {
+        "p": 0.005,
+        "d": 0.0
+    },
+    "kumAngleAlignGains": {
+        "p": 0.001,
+        "f": 0
+    },
+  "kumDistanceApproachGains": {
+        "p": 125,
+        "f": 0.1
+  },
+  "minPowerCellArea" : 100,
+  "maxPowerCellArea" : 10000
+}
